@@ -15,7 +15,7 @@ Push your code with **explicit** commit messages.
 ### -------- Iteration 1 --------
 
 - initialize the folder for npm
-- install hbs express mongoose dotenv
+- install hbs express mongoose dotenvnpm 
 - add a .gitignore file excluding the node modules and .env
 
 ### -------- Iteration 2 --------
